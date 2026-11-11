@@ -1,6 +1,6 @@
 {
-  "name": "red-devil-theme",
-  "displayName": "Red Devil",
+  "name": "red-devils-theme",
+  "displayName": "Red Devils",
   "description": "A bold dark theme in red, gold and black.",
   "version": "0.1.0",
   "publisher": "thedevlab",
@@ -14,6 +14,7 @@
   "keywords": [
     "theme",
     "dark",
+    "light",
     "red",
     "gold",
     "black",
@@ -27,9 +28,19 @@
   "contributes": {
     "themes": [
       {
-        "label": "Red Devil",
+        "label": "Red Devils",
         "uiTheme": "vs-dark",
-        "path": "./themes/red-devil-color-theme.json"
+        "path": "./themes/red-devils-color-theme.json"
+      },
+      {
+        "label": "Red Devils Away",
+        "uiTheme": "vs",
+        "path": "./themes/red-devils-away-color-theme.json"
+      },
+      {
+        "label": "Red Devils Third",
+        "uiTheme": "vs-dark",
+        "path": "./themes/red-devils-third-color-theme.json"
       }
     ]
   }
