@@ -1,0 +1,36 @@
+{
+  "name": "red-devil-theme",
+  "displayName": "Red Devil",
+  "description": "A bold dark theme in red, gold and black.",
+  "version": "0.1.0",
+  "publisher": "thedevlab",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.90.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark",
+    "red",
+    "gold",
+    "black",
+    "dark theme",
+    "color theme"
+  ],
+  "galleryBanner": {
+    "color": "#1A1A1A",
+    "theme": "dark"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Red Devil",
+        "uiTheme": "vs-dark",
+        "path": "./themes/red-devil-color-theme.json"
+      }
+    ]
+  }
+}
