@@ -59,6 +59,7 @@
     "activityBar.foreground": "#E8E8E8",
     "activityBar.inactiveForeground": "#6A6A6A",
     "activityBar.activeBorder": "#FFFFFF",
+    "activityBar.activeBackground": "#2D1B1A",
     "activityBar.border": "#141414",
     "activityBarBadge.background": "#FBE122",
     "activityBarBadge.foreground": "#000000",
@@ -84,7 +85,7 @@
     "titleBar.inactiveForeground": "#6A6A6A",
     "titleBar.border": "#141414",
 
-    "tab.activeBackground": "#1A1A1A",
+    "tab.activeBackground": "#2D1B1A",
     "tab.activeForeground": "#FFFFFF",
     "tab.activeBorderTop": "#FFFFFF",
     "tab.activeBorder": "#1A1A1A",
