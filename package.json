@@ -5,6 +5,7 @@
   "version": "0.1.0",
   "publisher": "thedevlab",
   "license": "MIT",
+  "icon": "images/icon.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/the-devlab/red-devils-theme.git"

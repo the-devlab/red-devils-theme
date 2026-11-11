@@ -2,4 +2,5 @@
 .gitignore
 samples/**
 images/screenshot-*.psd
+images/*.svg
 **/*.vsix
