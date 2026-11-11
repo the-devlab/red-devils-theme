@@ -3,4 +3,5 @@
 samples/**
 images/screenshot-*.psd
 images/*.svg
+scripts/**
 **/*.vsix

@@ -14,11 +14,11 @@ A bold dark theme for VS Code in red, gold and black. Made by The DevLab.
 
 | Theme | Style |
 |---|---|
-| **Red Devils** | Home: dark, with a red status bar and gold highlights. |
-| **Red Devils Away** | Light: white background, red accents and a black status bar. |
-| **Red Devils Third** | Blackout: near-black throughout, with red used only for thin accent lines. |
+| **Red Devils** | Dark, with a red status bar and gold highlights. |
+| **Red Devils Light** | White background, red accents and a black status bar. |
+| **Red Devils Blackout** | Near-black throughout, with a dark red status bar. |
 
-## Palette (Home)
+## Palette (Red Devils)
 
 | Role | Colour |
 |---|---|
@@ -30,6 +30,14 @@ A bold dark theme for VS Code in red, gold and black. Made by The DevLab.
 | Gold (functions, cursor) | `#FBE122` |
 | Muted gold (numbers, constants) | `#D4AF37` |
 | Comments | `#7A7A7A` |
+
+## Development
+
+Press F5 in VS Code to open a test window with sample files. The Blackout variant is generated from the main theme; after changing `themes/red-devils-color-theme.json`, run:
+
+```powershell
+powershell -File scripts/make-blackout.ps1
+```
 
 ## Feedback
 

@@ -42,14 +42,14 @@
         "path": "./themes/red-devils-color-theme.json"
       },
       {
-        "label": "Red Devils Away",
+        "label": "Red Devils Light",
         "uiTheme": "vs",
-        "path": "./themes/red-devils-away-color-theme.json"
+        "path": "./themes/red-devils-light-color-theme.json"
       },
       {
-        "label": "Red Devils Third",
+        "label": "Red Devils Blackout",
         "uiTheme": "vs-dark",
-        "path": "./themes/red-devils-third-color-theme.json"
+        "path": "./themes/red-devils-blackout-color-theme.json"
       }
     ]
   }
