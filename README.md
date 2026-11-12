@@ -1,6 +1,6 @@
 # Red Devils
 
-A bold dark theme for VS Code in red, gold and black. Made by The DevLab.
+A bold theme for VS Code in red, gold and black, with Light and Blackout variants. Made by The DevLab.
 
 ![Red Devils theme in VS Code](images/red-devils.png)
 

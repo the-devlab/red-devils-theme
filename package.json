@@ -1,8 +1,8 @@
 {
   "name": "red-devils-theme",
   "displayName": "Red Devils",
-  "description": "A bold dark theme in red, gold and black.",
-  "version": "0.1.1",
+  "description": "A bold theme in red, gold and black, with Light and Blackout variants.",
+  "version": "0.1.2",
   "publisher": "thedevlab",
   "license": "MIT",
   "icon": "images/icon.png",

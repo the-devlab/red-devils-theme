@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.2
+
+- Update the description to mention the Light and Blackout variants.
+
 ## 0.1.1
 
 - README: combine the palettes into one table covering all three variants.
