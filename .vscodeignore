@@ -3,5 +3,6 @@
 samples/**
 images/screenshot-*.psd
 images/*.svg
+images/red-devils*.png
 scripts/**
 **/*.vsix

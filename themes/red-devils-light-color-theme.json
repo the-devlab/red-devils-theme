@@ -179,7 +179,7 @@
     "peekViewEditor.matchHighlightBackground": "#FBE12266",
 
     "gitDecoration.addedResourceForeground": "#2E7D32",
-    "gitDecoration.modifiedResourceForeground": "#8A6D00",
+    "gitDecoration.modifiedResourceForeground": "#6E5600",
     "gitDecoration.deletedResourceForeground": "#B8200F",
     "gitDecoration.untrackedResourceForeground": "#43A047",
     "gitDecoration.ignoredResourceForeground": "#A0A0A0",

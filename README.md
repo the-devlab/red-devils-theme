@@ -2,7 +2,7 @@
 
 A bold dark theme for VS Code in red, gold and black. Made by The DevLab.
 
-<!-- TODO: add a screenshot: ![Red Devils screenshot](images/screenshot.png) -->
+![Red Devils theme in VS Code](images/red-devils.png)
 
 ## Install
 
@@ -17,6 +17,14 @@ A bold dark theme for VS Code in red, gold and black. Made by The DevLab.
 | **Red Devils** | Dark, with a red status bar and gold highlights. |
 | **Red Devils Light** | White background, red accents and a black status bar. |
 | **Red Devils Blackout** | Near-black throughout, with a dark red status bar. |
+
+### Red Devils Light
+
+![Red Devils Light theme in VS Code](images/red-devils-light.png)
+
+### Red Devils Blackout
+
+![Red Devils Blackout theme in VS Code](images/red-devils-blackout.png)
 
 ## Palette (Red Devils)
 

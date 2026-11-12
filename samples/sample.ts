@@ -1,5 +1,5 @@
 // Sample file for checking the theme. Not shipped in the extension.
-import { readFile } from 'node:fs/promises'
+declare function readFile(path: string, encoding: string): Promise<string>
 
 interface Player {
   name: string
