@@ -26,18 +26,22 @@ A bold dark theme for VS Code in red, gold and black. Made by The DevLab.
 
 ![Red Devils Blackout theme in VS Code](images/red-devils-blackout.png)
 
-## Palette (Red Devils)
+## Palette
 
-| Role | Colour |
-|---|---|
-| Background | `#1A1A1A` |
-| Sidebar & panels | `#141414` |
-| Text | `#E8E8E8` |
-| Red (accents, status bar) | `#DA291C` |
-| Light red (keywords) | `#FF5A4E` |
-| Gold (functions, cursor) | `#FBE122` |
-| Muted gold (numbers, constants) | `#D4AF37` |
-| Comments | `#7A7A7A` |
+| Role | Red Devils | Light | Blackout |
+|---|---|---|---|
+| Background | `#1A1A1A` | `#FFFFFF` | `#0A0A0A` |
+| Sidebar & panels | `#141414` | `#F7F7F7` | `#000000` |
+| Text | `#E8E8E8` | `#1A1A1A` | `#E8E8E8` |
+| Status bar | `#DA291C` | `#1A1A1A` | `#3A0A06` |
+| Cursor | `#FBE122` | `#DA291C` | `#FBE122` |
+| Badges | `#FBE122` | `#FBE122` | `#FBE122` |
+| Keywords, tags | `#FF5A4E` | `#B8200F` | `#FF5A4E` |
+| Functions, attributes | `#FBE122` | `#8A6D00` | `#FBE122` |
+| Strings | `#F5D98B` | `#6B5B3A` | `#F5D98B` |
+| Numbers, constants | `#D4AF37` | `#9A5B13` | `#D4AF37` |
+| Types, classes (bold) | `#FFFFFF` | `#000000` | `#FFFFFF` |
+| Comments (italic) | `#7A7A7A` | `#767676` | `#7A7A7A` |
 
 ## Development
 
